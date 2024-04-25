@@ -1,0 +1,16 @@
+Provider Recipient
+
+Extension to use
+
+Bell and Solo Mobile ---------------------------- xxx-xxx-xxxx @txt.bell.ca
+Chatr, Rogers and Tbaytel ---------------------------- xxx-xxx-xxxx @pcs.rogers.com
+Eastlink xxx-xxx-xxxx ---------------------------- @txt.eastlink.ca
+Fido ---------------------------- xxx-xxx-xxxx @fido.ca
+Koodo Mobile ---------------------------- xxx-xxx-xxxx @msg.koodomobile.com
+MTS ---------------------------- xxx-xxx-xxxx @text.mtsmobility.com
+PC Mobile ---------------------------- xxx-xxx-xxxx @mobiletxt.ca
+Public Mobile ---------------------------- xxx-xxx-xxxx @msg.telus.com
+Sasktel ---------------------------- xxx-xxx-xxxx @sms.sasktel.com
+TELUS ---------------------------- xxx-xxx-xxxx @msg.telus.com
+Virgin Mobile ---------------------------- xxx-xxx-xxxx @vmobile.ca
+WIND Mobile ---------------------------- xxx-xxx-xxxx @txt.windmobile.ca
